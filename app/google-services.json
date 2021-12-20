@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488676033756",
+    "project_id": "registerUAS",
+    "storage_bucket": "registeruas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488676033756:android:7e36898d2bb7d33e20e019",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488676033756-lim6fuparvvu7d0i1a5la1n3r6l80e7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf8QVnnbYChTCMreMz6ZY9tEFdKh3HNRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488676033756-lim6fuparvvu7d0i1a5la1n3r6l80e7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

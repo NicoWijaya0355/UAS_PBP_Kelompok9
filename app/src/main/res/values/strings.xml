@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibW9yZW5vc2VuZHBpZSIsImEiOiJja3Vyb3RhOWoxZWltMndxcjhhdXVoY3JvIn0.-o16hrWWlTags3FqXb30Rw</string>
+    <string name="user_location_permission_explanation">Apakah diperbolehkan ?</string>
+    <string name="user_location_permission_not_granted">Ditolak kalian semua</string>
+
+    <string name="Register">Register</string>
+    <string name="email">Email</string>
+    <string name="name">Full Name</string>
+    <string name="age">Age</string>
+    <string name="phone">Phone Number</string>
+    <string name="alamat">Address</string>
+    <string name="password">Password</string>
+    <string name="username">username</string>
+    <string name="login">Login</string>
+</resources>
